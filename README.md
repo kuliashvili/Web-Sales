@@ -1,6 +1,6 @@
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+<h2> This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1. </h2>
 
 
 # This web application shows our sold products and charts by sales
